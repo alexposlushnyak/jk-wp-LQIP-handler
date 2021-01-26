@@ -1,5 +1,8 @@
 <?php defined('ABSPATH') || exit;
 
+/* include gaussholder */
+include_once(__DIR__ . '/vendor/gaussholder/gaussholder.php');
+
 final class JK_WP_LQIP_HANDLER
 {
 
