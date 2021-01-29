@@ -1,5 +1,7 @@
 <?php defined('ABSPATH') || exit;
 
+$path = __DIR__;
+
 /* include gaussholder */
 include_once(__DIR__ . '/vendor/gaussholder/gaussholder.php');
 
