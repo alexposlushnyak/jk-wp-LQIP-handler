@@ -5,7 +5,7 @@ $path = __DIR__;
 /* include gaussholder */
 include_once(__DIR__ . '/vendor/gaussholder/gaussholder.php');
 
-final class JK_WP_LQIP_HANDLER
+class jk_wp_lqip_handler
 {
 
     public $lqip_sizes;
